@@ -8,6 +8,7 @@
 
 [<img align="left" alt="arilis.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Arilis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Arilis | Discord" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" />][discord]
 
 <br />
 
@@ -31,3 +32,4 @@
 
 [website]: https://arilis.dev
 [youtube]: https://youtube.com/c/ArilisYT
+[discord]: https://arilis.dev/getDiscord.php
