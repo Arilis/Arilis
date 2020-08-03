@@ -1,7 +1,7 @@
 ### Hi there, I'm Arilis 👋
 
 ## I'm a Student, and Developer!
-- 🔭 I’m currently working on a [AriHub][website]!
+- 🔭 I’m currently working on [AriHub][website]!
 - 🌱 I’m currently learning as much as i can 🤣
 
 ### Connect with me:
