@@ -39,6 +39,7 @@
   <img align="left" alt="Arilis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arilis&show_icons=true&hide_border=true" />
 
 </details>
+
 [website]: https://arilis.dev
 [youtube]: https://youtube.com/c/ArilisYT
 [discord]: https://arilis.dev/getDiscord.php
