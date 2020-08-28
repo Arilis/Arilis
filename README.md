@@ -1,4 +1,5 @@
 ### Hi there, I'm Arilis 👋
+[![Website](https://img.shields.io/website?label=arilis.dev&style=for-the-badge&url=https%3A%2F%2Farilis.dev)](https://arilis.dev)
 
 ## I'm a Student, and Developer!
 - 🔭 I’m currently working on [AriHub][website]!
@@ -32,9 +33,12 @@
 
 <br />
 <br />
+<details>
+  <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Arilis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arilis&show_icons=true&hide_border=true" />
+  <img align="left" alt="Arilis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arilis&show_icons=true&hide_border=true" />
 
+</details>
 [website]: https://arilis.dev
 [youtube]: https://youtube.com/c/ArilisYT
 [discord]: https://arilis.dev/getDiscord.php
